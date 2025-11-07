@@ -1,0 +1,7 @@
+streamlit>=1.48
+transformers>=4.56
+pandas>=2.2
+numpy>=1.26
+rapidfuzz>=3.0
+nltk>=3.9
+torch>=2.3
